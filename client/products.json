@@ -1,0 +1,63 @@
+{
+  "products": [
+      {   
+          "id": 1,
+          "name": "Doona Car Seat & Stroller",
+          "img": "https://acortar.link/vuYDEG",
+          "price": 1600,
+          "description": "Doona is the world’s first complete and fully integrated travel system, allowing you to move from car seat to stroller in seconds. The innovative design allows you to navigate the streets at ease, without disturbing your sleeping child when hopping in a car, traveling by bus or walking up the stairs. The revolutionary car seat and stroller provides a safe and practical solution for parents on-the-go.",
+          "categories": "stroller",
+          "cantidad" : 1
+      },
+      {   
+          "id": 2,
+          "name": "Liki Trike S3",
+          "img": "https://acortar.link/u23cob",
+          "price": 2600,
+          "description": "Get ready to roll with Liki, the world’s most compact folding trike. The sleek urban design of the Liki Trike allows you to be safe and have fun, as it elegantly combines functionality and aesthetics. With its unique and patented small-fold, the ingenious trike simply folds and unfolds at the click of a button. Liki allows you to travel comfortably with your child as it fits easily in the boot of your car or the airplane’s overhead bin.",
+          "categories": "car-set",
+          "cantidad" : 1
+      },
+      {   
+          "id": 3,
+          "name": "Liki Helmet",
+          "img": "https://acortar.link/LB0W1a",
+          "price": 600,
+          "description": "The Liki Helmet design features unique silicon horns on a matt black helmet. It provides ultimate protection with a dial-fit adjustment system for a secure and comfortable fit, a padded nylon adjustable chin strap and a FIDLOCK® magnetic buckle for easy use. The Liki Helmet is designed to provide safety and protection not only for learning to ride with the Liki Trike but also for the next size of bicycle until the age of 4",
+          "categories": "accesories",
+          "cantidad" : 1
+      },
+      {   
+          "id": 4,
+          "name": "Liki Travel Bag",
+          "img": "https://acortar.link/DSnQKa",
+          "price": 1200,
+          "description": "The Liki Travel Bag is designed to make it easy to carry your Liki Trike wherever you go. Made from durable, water-repellent, and rip-stop fabric, it ensures your trike stays clean and protected during your travels or when it's stored away.",
+          "categories": "accesories",
+          "cantidad" : 1
+      },
+      {   
+          "id": 5,
+          "name": "Liki Rain Cover",
+          "img": "https://acortar.link/Skitgr",
+          "price": 800,
+          "description": "Keeps your child protected and dry when riding on the Liki Trike on a rainy day.",
+          "categories": "accesories",
+          "cantidad" : 1
+      }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "stroller"
+    },
+    {
+      "id": 2,
+      "name": "accesories"
+    },
+    {
+      "id": 3,
+      "name": "car-seat"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+.count {
+    position: absolute;
+    bottom: -4px;
+    right: 0;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 0.5rem;
+}
+.count--div{
+    width: 1rem;
+    height: 1rem;
+    background-color: black;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.count__p {
+    font-size: .75rem;
+}

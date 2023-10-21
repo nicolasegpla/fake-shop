@@ -1,0 +1,61 @@
+.ul--producto {
+    width: 100%;
+    padding: 0;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+.div--card--producto {
+    width: 15.625rem;
+    min-width: 15.625rem;
+    max-width: 15.625rem;
+    height: 20rem;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: .9375rem;
+    text-align: center;
+    -webkit-box-shadow: 8px 8px 20px -14px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 8px 8px 20px -14px rgba(66, 68, 90, 1);
+    box-shadow: 8px 8px 20px -14px rgba(66, 68, 90, 1);
+}
+.descripcion{
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
+.price{
+    font-weight: bold;
+    color: #333333;
+}
+.verMas {
+    width: 12.5rem;
+    height: 2rem;
+    border-radius: .625rem;
+    border: none;
+    background-color: black;
+    color: whitesmoke;
+    font-weight: 700;
+    font-size: 1rem;
+    cursor: pointer;
+}
+.add {
+    width: 12.5rem;
+    height: 2rem;
+    border-radius: .625rem;
+    border: none;
+    background-color: #FACE0B;
+    color: black;
+    font-weight: 700;
+    font-size: 1rem;
+    cursor: pointer;
+}
